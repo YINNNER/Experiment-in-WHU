@@ -1,0 +1,35 @@
+(a)What is the output?
+   
+in constructor,nCharArray=0
+in constructor,nCharArray=1
+in constructor,nCharArray=1
+in oprator[],nCharArray=2
+abc
+pbc
+in operator=,nCharArray=2
+in operator=,nCharArray=1
+pbc
+pbc
+in destructor,nCharArray=1
+in destructor,nCharArray=1
+in destructor,nCharArray=0
+
+
+(b)What does nCharArray stand for? Is it equal to the number of String objects?
+   
+nCharArray standS for the number of the character arrays.
+It is not equal to the number of String objects.
+
+
+(c)Why is the value of nCharArray less than the number of String objects?
+   
+Because more than one objects can point to the same array. For example, after the statement “s1=s3;s2=s3;”,all the 3 objects point one character array “3pbc”.
+
+(d)In class String, str[0] is the reference count, whose maximum value is 255. Where is the content of String object?
+   
+The content of String object is the element of the character array to which str is pointed from str[1] to str[_len+1].
+
+
+(e)How can we know that two String objects share the same memory space?
+
+We can judge it from str[0], the reference count. If its value is 2, then we can know that two String objects share the same memory space.
