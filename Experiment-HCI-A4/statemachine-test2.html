@@ -1,0 +1,44 @@
+<html>
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+    <script src="actor.js"></script>
+    <script src="game.js"></script>
+    <script src="actions.js"></script>
+    <script src="statemachine-test2.js"></script>
+    <link rel="stylesheet" type="text/css" href="statemachinetest.css">
+    <style type="text/css">
+        h1{
+            margin: 20px 0 -10px 0;
+        }
+        .description{
+            width: 750px;
+            text-align: center;
+        }
+        .info{
+            display: flex;
+            flex-direction: row;
+            margin: -5px 0 10px 0;
+        }
+        #play{
+            margin:0 10px;
+        }
+
+        #time{
+            margin-right:10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>My game</h1>
+        <h4 class="description">This is a simple game, drag the bear to get stars
+        and avoid reaching the rock!</h4>
+        <div class="info">
+            <button id="play">Play!</button>
+            <div>Time: <span id="time">30</span></div>
+            <div>Score: <span id="score">0</span></div>
+        </div>
+        <canvas id="game" width="800" height="500"></canvas>
+    </div>
+</body>
+</html>
