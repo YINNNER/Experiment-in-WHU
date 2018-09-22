@@ -1,0 +1,188 @@
+E:\csharp\Fund\Fund\bin\Debug\Fund.exe.config
+E:\csharp\Fund\Fund\bin\Debug\Fund.exe
+E:\csharp\Fund\Fund\bin\Debug\Fund.pdb
+E:\csharp\Fund\Fund\obj\Debug\Fund.csprojResolveAssemblyReference.cache
+E:\csharp\Fund\Fund\obj\Debug\Fund.Properties.Resources.resources
+E:\csharp\Fund\Fund\obj\Debug\Fund.csproj.GenerateResource.Cache
+E:\csharp\Fund\Fund\obj\Debug\Fund.exe
+E:\csharp\Fund\Fund\obj\Debug\Fund.pdb
+E:\csharp\Fund\Fund\obj\Debug\Fund.Form2.resources
+E:\csharp\Fund\Fund\obj\Debug\Fund.Form3.resources
+E:\csharp\Fund\Fund\obj\Debug\Fund.Form4.resources
+E:\csharp\Fund\Fund\obj\Debug\Fund.Form1.resources
+E:\教学\C#作业\二班第二组\Fund\Fund\bin\Debug\Fund.exe.config
+E:\教学\C#作业\二班第二组\Fund\Fund\obj\Debug\Fund.exe
+E:\教学\C#作业\二班第二组\Fund\Fund\obj\Debug\Fund.pdb
+E:\教学\C#作业\二班第二组\Fund\Fund\bin\Debug\Fund.exe
+E:\教学\C#作业\二班第二组\Fund\Fund\bin\Debug\Fund.pdb
+E:\教学\C#作业\二班第二组\Fund\Fund\obj\Debug\Fund.csprojResolveAssemblyReference.cache
+E:\教学\C#作业\二班第二组\Fund\Fund\obj\Debug\Fund.Form1.resources
+E:\教学\C#作业\二班第二组\Fund\Fund\obj\Debug\Fund.Form2.resources
+E:\教学\C#作业\二班第二组\Fund\Fund\obj\Debug\Fund.Form3.resources
+E:\教学\C#作业\二班第二组\Fund\Fund\obj\Debug\Fund.Form4.resources
+E:\教学\C#作业\二班第二组\Fund\Fund\obj\Debug\Fund.Properties.Resources.resources
+E:\教学\C#作业\二班第二组\Fund\Fund\obj\Debug\Fund.csproj.GenerateResource.Cache
+E:\学习\C#\Fund\Fund\bin\Debug\Fund.exe.config
+E:\学习\C#\Fund\Fund\obj\Debug\Fund.exe
+E:\学习\C#\Fund\Fund\obj\Debug\Fund.pdb
+E:\学习\C#\Fund\Fund\bin\Debug\Fund.exe
+E:\学习\C#\Fund\Fund\bin\Debug\Fund.pdb
+E:\学习\C#\Fund\Fund\obj\Debug\Fund.csprojResolveAssemblyReference.cache
+E:\学习\C#\Fund\Fund\obj\Debug\Fund.Form1.resources
+E:\学习\C#\Fund\Fund\obj\Debug\Fund.Form2.resources
+E:\学习\C#\Fund\Fund\obj\Debug\Fund.Form3.resources
+E:\学习\C#\Fund\Fund\obj\Debug\Fund.Form4.resources
+E:\学习\C#\Fund\Fund\obj\Debug\Fund.Properties.Resources.resources
+E:\学习\C#\Fund\Fund\obj\Debug\Fund.csproj.GenerateResource.Cache
+E:\学习\C#\Fund\Fund\bin\Debug\IrisSkin4.dll
+E:\学习\C#\Fund\Fund\bin\Debug\CSkin.dll
+E:\学习\C#\Fund\Fund\obj\Debug\Fund.Form5.resources
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund(2)\Fund\bin\Debug\Fund.exe.config
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund(2)\Fund\obj\Debug\Fund.exe
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund(2)\Fund\obj\Debug\Fund.pdb
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund(2)\Fund\bin\Debug\Fund.exe
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund(2)\Fund\bin\Debug\Fund.pdb
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund(2)\Fund\bin\Debug\CSkin.dll
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund(2)\Fund\bin\Debug\IrisSkin4.dll
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund(2)\Fund\obj\Debug\Fund.csprojResolveAssemblyReference.cache
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund(2)\Fund\obj\Debug\Fund.Form1.resources
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund(2)\Fund\obj\Debug\Fund.Form2.resources
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund(2)\Fund\obj\Debug\Fund.Form3.resources
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund(2)\Fund\obj\Debug\Fund.Form4.resources
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund(2)\Fund\obj\Debug\Fund.Form5.resources
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund(2)\Fund\obj\Debug\Fund.Properties.Resources.resources
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund(2)\Fund\obj\Debug\Fund.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\Fund\Fund\bin\Debug\Fund.exe.config
+C:\Users\lenovo\Desktop\Fund\Fund\obj\Debug\Fund.exe
+C:\Users\lenovo\Desktop\Fund\Fund\obj\Debug\Fund.pdb
+C:\Users\lenovo\Desktop\Fund\Fund\bin\Debug\Fund.exe
+C:\Users\lenovo\Desktop\Fund\Fund\bin\Debug\Fund.pdb
+C:\Users\lenovo\Desktop\Fund\Fund\bin\Debug\CSkin.dll
+C:\Users\lenovo\Desktop\Fund\Fund\bin\Debug\IrisSkin4.dll
+C:\Users\lenovo\Desktop\Fund\Fund\obj\Debug\Fund.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Fund\Fund\obj\Debug\Fund.Form1.resources
+C:\Users\lenovo\Desktop\Fund\Fund\obj\Debug\Fund.Form2.resources
+C:\Users\lenovo\Desktop\Fund\Fund\obj\Debug\Fund.Form3.resources
+C:\Users\lenovo\Desktop\Fund\Fund\obj\Debug\Fund.Form4.resources
+C:\Users\lenovo\Desktop\Fund\Fund\obj\Debug\Fund.Form5.resources
+C:\Users\lenovo\Desktop\Fund\Fund\obj\Debug\Fund.Form6.resources
+C:\Users\lenovo\Desktop\Fund\Fund\obj\Debug\Fund.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Fund\Fund\obj\Debug\Fund.csproj.GenerateResource.Cache
+D:\Users\2016302580095\Desktop\Fund\Fund\obj\Debug\Fund.csprojResolveAssemblyReference.cache
+D:\Users\2016302580095\Desktop\Fund\Fund\obj\Debug\Fund.Form1.resources
+D:\Users\2016302580095\Desktop\Fund\Fund\obj\Debug\Fund.Form2.resources
+D:\Users\2016302580095\Desktop\Fund\Fund\obj\Debug\Fund.Form3.resources
+D:\Users\2016302580095\Desktop\Fund\Fund\obj\Debug\Fund.Form4.resources
+D:\Users\2016302580095\Desktop\Fund\Fund\obj\Debug\Fund.Form5.resources
+D:\Users\2016302580095\Desktop\Fund\Fund\obj\Debug\Fund.Form6.resources
+D:\Users\2016302580095\Desktop\Fund\Fund\obj\Debug\Fund.Properties.Resources.resources
+D:\Users\2016302580095\Desktop\Fund\Fund\obj\Debug\Fund.csproj.GenerateResource.Cache
+D:\Users\2016302580095\Desktop\Fund\Fund\obj\Debug\Fund.csproj.CoreCompileInputs.cache
+D:\Users\2016302580095\Desktop\Fund\Fund\obj\Debug\Fund.exe
+D:\Users\2016302580095\Desktop\Fund\Fund\obj\Debug\Fund.pdb
+D:\Users\2016302580095\Desktop\Fund\Fund\bin\Debug\Fund.exe.config
+D:\Users\2016302580095\Desktop\Fund\Fund\bin\Debug\Fund.exe
+D:\Users\2016302580095\Desktop\Fund\Fund\bin\Debug\Fund.pdb
+D:\Users\2016302580095\Desktop\Fund\Fund\bin\Debug\CSkin.dll
+D:\Users\2016302580095\Desktop\Fund\Fund\bin\Debug\IrisSkin4.dll
+F:\Fund-1\Fund\bin\Debug\Fund.exe.config
+F:\Fund-1\Fund\bin\Debug\Fund.exe
+F:\Fund-1\Fund\bin\Debug\Fund.pdb
+F:\Fund-1\Fund\bin\Debug\CSkin.dll
+F:\Fund-1\Fund\bin\Debug\IrisSkin4.dll
+F:\Fund-1\Fund\obj\Debug\Fund.csprojResolveAssemblyReference.cache
+F:\Fund-1\Fund\obj\Debug\Fund.Form1.resources
+F:\Fund-1\Fund\obj\Debug\Fund.Form2.resources
+F:\Fund-1\Fund\obj\Debug\Fund.Form3.resources
+F:\Fund-1\Fund\obj\Debug\Fund.Form4.resources
+F:\Fund-1\Fund\obj\Debug\Fund.Form5.resources
+F:\Fund-1\Fund\obj\Debug\Fund.Form6.resources
+F:\Fund-1\Fund\obj\Debug\Fund.Properties.Resources.resources
+F:\Fund-1\Fund\obj\Debug\Fund.csproj.GenerateResource.Cache
+F:\Fund-1\Fund\obj\Debug\Fund.csproj.CoreCompileInputs.cache
+F:\Fund-1\Fund\obj\Debug\Fund.exe
+F:\Fund-1\Fund\obj\Debug\Fund.pdb
+D:\Users\2016302580095\Desktop\Fund-1\Fund-1\Fund\bin\Debug\Fund.exe.config
+D:\Users\2016302580095\Desktop\Fund-1\Fund-1\Fund\bin\Debug\Fund.exe
+D:\Users\2016302580095\Desktop\Fund-1\Fund-1\Fund\bin\Debug\Fund.pdb
+D:\Users\2016302580095\Desktop\Fund-1\Fund-1\Fund\bin\Debug\CSkin.dll
+D:\Users\2016302580095\Desktop\Fund-1\Fund-1\Fund\bin\Debug\IrisSkin4.dll
+D:\Users\2016302580095\Desktop\Fund-1\Fund-1\Fund\obj\Debug\Fund.csprojResolveAssemblyReference.cache
+D:\Users\2016302580095\Desktop\Fund-1\Fund-1\Fund\obj\Debug\Fund.Form1.resources
+D:\Users\2016302580095\Desktop\Fund-1\Fund-1\Fund\obj\Debug\Fund.Form2.resources
+D:\Users\2016302580095\Desktop\Fund-1\Fund-1\Fund\obj\Debug\Fund.Form3.resources
+D:\Users\2016302580095\Desktop\Fund-1\Fund-1\Fund\obj\Debug\Fund.Form4.resources
+D:\Users\2016302580095\Desktop\Fund-1\Fund-1\Fund\obj\Debug\Fund.Form5.resources
+D:\Users\2016302580095\Desktop\Fund-1\Fund-1\Fund\obj\Debug\Fund.Form6.resources
+D:\Users\2016302580095\Desktop\Fund-1\Fund-1\Fund\obj\Debug\Fund.Properties.Resources.resources
+D:\Users\2016302580095\Desktop\Fund-1\Fund-1\Fund\obj\Debug\Fund.csproj.GenerateResource.Cache
+D:\Users\2016302580095\Desktop\Fund-1\Fund-1\Fund\obj\Debug\Fund.csproj.CoreCompileInputs.cache
+D:\Users\2016302580095\Desktop\Fund-1\Fund-1\Fund\obj\Debug\Fund.exe
+D:\Users\2016302580095\Desktop\Fund-1\Fund-1\Fund\obj\Debug\Fund.pdb
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund-1\Fund-1\Fund\bin\Debug\Fund.exe.config
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund-1\Fund-1\Fund\obj\Debug\Fund.exe
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund-1\Fund-1\Fund\obj\Debug\Fund.pdb
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund-1\Fund-1\Fund\bin\Debug\Fund.exe
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund-1\Fund-1\Fund\bin\Debug\Fund.pdb
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund-1\Fund-1\Fund\bin\Debug\CSkin.dll
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund-1\Fund-1\Fund\bin\Debug\IrisSkin4.dll
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund-1\Fund-1\Fund\obj\Debug\Fund.csprojResolveAssemblyReference.cache
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund-1\Fund-1\Fund\obj\Debug\Fund.Form1.resources
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund-1\Fund-1\Fund\obj\Debug\Fund.Form2.resources
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund-1\Fund-1\Fund\obj\Debug\Fund.Form3.resources
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund-1\Fund-1\Fund\obj\Debug\Fund.Form4.resources
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund-1\Fund-1\Fund\obj\Debug\Fund.Form5.resources
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund-1\Fund-1\Fund\obj\Debug\Fund.Form6.resources
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund-1\Fund-1\Fund\obj\Debug\Fund.Properties.Resources.resources
+D:\My Documents\Tencent Files\810650217\FileRecv\Fund-1\Fund-1\Fund\obj\Debug\Fund.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\Fund-1\Fund-1\Fund\bin\Debug\Fund.exe.config
+C:\Users\lenovo\Desktop\Fund-1\Fund-1\Fund\obj\Debug\Fund.exe
+C:\Users\lenovo\Desktop\Fund-1\Fund-1\Fund\obj\Debug\Fund.pdb
+C:\Users\lenovo\Desktop\Fund-1\Fund-1\Fund\bin\Debug\Fund.exe
+C:\Users\lenovo\Desktop\Fund-1\Fund-1\Fund\bin\Debug\Fund.pdb
+C:\Users\lenovo\Desktop\Fund-1\Fund-1\Fund\bin\Debug\CSkin.dll
+C:\Users\lenovo\Desktop\Fund-1\Fund-1\Fund\bin\Debug\IrisSkin4.dll
+C:\Users\lenovo\Desktop\Fund-1\Fund-1\Fund\obj\Debug\Fund.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Fund-1\Fund-1\Fund\obj\Debug\Fund.Form1.resources
+C:\Users\lenovo\Desktop\Fund-1\Fund-1\Fund\obj\Debug\Fund.Form2.resources
+C:\Users\lenovo\Desktop\Fund-1\Fund-1\Fund\obj\Debug\Fund.Form3.resources
+C:\Users\lenovo\Desktop\Fund-1\Fund-1\Fund\obj\Debug\Fund.Form4.resources
+C:\Users\lenovo\Desktop\Fund-1\Fund-1\Fund\obj\Debug\Fund.Form5.resources
+C:\Users\lenovo\Desktop\Fund-1\Fund-1\Fund\obj\Debug\Fund.Form6.resources
+C:\Users\lenovo\Desktop\Fund-1\Fund-1\Fund\obj\Debug\Fund.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Fund-1\Fund-1\Fund\obj\Debug\Fund.csproj.GenerateResource.Cache
+D:\Users\2016302580095\Desktop\Fund_v0.95\Fund-1\Fund\bin\Debug\Fund.exe.config
+D:\Users\2016302580095\Desktop\Fund_v0.95\Fund-1\Fund\bin\Debug\Fund.exe
+D:\Users\2016302580095\Desktop\Fund_v0.95\Fund-1\Fund\bin\Debug\Fund.pdb
+D:\Users\2016302580095\Desktop\Fund_v0.95\Fund-1\Fund\bin\Debug\CSkin.dll
+D:\Users\2016302580095\Desktop\Fund_v0.95\Fund-1\Fund\bin\Debug\IrisSkin4.dll
+D:\Users\2016302580095\Desktop\Fund_v0.95\Fund-1\Fund\obj\Debug\Fund.csprojResolveAssemblyReference.cache
+D:\Users\2016302580095\Desktop\Fund_v0.95\Fund-1\Fund\obj\Debug\Fund.Form1.resources
+D:\Users\2016302580095\Desktop\Fund_v0.95\Fund-1\Fund\obj\Debug\Fund.Properties.Resources.resources
+D:\Users\2016302580095\Desktop\Fund_v0.95\Fund-1\Fund\obj\Debug\Fund.csproj.GenerateResource.Cache
+D:\Users\2016302580095\Desktop\Fund_v0.95\Fund-1\Fund\obj\Debug\Fund.csproj.CoreCompileInputs.cache
+D:\Users\2016302580095\Desktop\Fund_v0.95\Fund-1\Fund\obj\Debug\Fund.exe
+D:\Users\2016302580095\Desktop\Fund_v0.95\Fund-1\Fund\obj\Debug\Fund.pdb
+D:\Users\2016302580095\Desktop\Fund_v0.95\Fund\bin\Debug\Fund.exe.config
+D:\Users\2016302580095\Desktop\Fund_v0.95\Fund\bin\Debug\Fund.exe
+D:\Users\2016302580095\Desktop\Fund_v0.95\Fund\bin\Debug\Fund.pdb
+D:\Users\2016302580095\Desktop\Fund_v0.95\Fund\bin\Debug\CSkin.dll
+D:\Users\2016302580095\Desktop\Fund_v0.95\Fund\bin\Debug\IrisSkin4.dll
+D:\Users\2016302580095\Desktop\Fund_v0.95\Fund\obj\Debug\Fund.csprojResolveAssemblyReference.cache
+D:\Users\2016302580095\Desktop\Fund_v0.95\Fund\obj\Debug\Fund.Form1.resources
+D:\Users\2016302580095\Desktop\Fund_v0.95\Fund\obj\Debug\Fund.Properties.Resources.resources
+D:\Users\2016302580095\Desktop\Fund_v0.95\Fund\obj\Debug\Fund.csproj.GenerateResource.Cache
+D:\Users\2016302580095\Desktop\Fund_v0.95\Fund\obj\Debug\Fund.csproj.CoreCompileInputs.cache
+D:\Users\2016302580095\Desktop\Fund_v0.95\Fund\obj\Debug\Fund.exe
+D:\Users\2016302580095\Desktop\Fund_v0.95\Fund\obj\Debug\Fund.pdb
+C:\Users\lenovo\Desktop\Fund_v0.95\Fund\bin\Debug\Fund.exe.config
+C:\Users\lenovo\Desktop\Fund_v0.95\Fund\obj\Debug\Fund.exe
+C:\Users\lenovo\Desktop\Fund_v0.95\Fund\obj\Debug\Fund.pdb
+C:\Users\lenovo\Desktop\Fund_v0.95\Fund\obj\Debug\Fund.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Fund_v0.95\Fund\obj\Debug\Fund.Form1.resources
+C:\Users\lenovo\Desktop\Fund_v0.95\Fund\obj\Debug\Fund.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Fund_v0.95\Fund\obj\Debug\Fund.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\Fund_v0.95\Fund\bin\Debug\Fund.exe
+C:\Users\lenovo\Desktop\Fund_v0.95\Fund\bin\Debug\Fund.pdb
+C:\Users\lenovo\Desktop\Fund_v0.95\Fund\bin\Debug\CSkin.dll
+C:\Users\lenovo\Desktop\Fund_v0.95\Fund\bin\Debug\IrisSkin4.dll
