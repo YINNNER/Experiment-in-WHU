@@ -1,0 +1,28 @@
+
+/*result*/
+
+.table_style {
+    width:100%;
+    margin-bottom:15px;
+}
+.table_style caption {
+    font-size: 22px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+.table_style th {
+    background-color:#229ffd;
+    color:#FFFFFF
+}
+.table_style,.table_style th,.table_style td
+{
+    font-size:18px;
+    text-align:center;
+    padding:4px;
+    border:1px solid #7ecbfe;
+    border-collapse:collapse
+}
+.table_style tr{
+    background-color:#fdfdfd;
+    color: #383535;
+}
